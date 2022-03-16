@@ -8,4 +8,6 @@
     <string name="selected_date">Selected Date</string>
     <string name="select_date">Select Date</string>
     <string name="in_minutes">IN MINUTES</string>
+    <string name="in_minutes_text">In Minutes</string>
+    <string name="age_text">AGE</string>
 </resources>

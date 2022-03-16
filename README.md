@@ -1,10 +1,50 @@
 # AgeInMinutesApp
 An android app that can calculate the minutes from the date the user entered, till today. If user tap Select Date button, 
 Calender dialog will appear and provide user to enter the date wanted to calculate. 
-Main Screen
-![WhatsApp Image 2022-03-16 at 19 25 16 (1)](https://user-images.githubusercontent.com/73395346/158639163-59c2d74a-4371-47f9-b288-419be55d9451.jpeg)
-Calender Dialog
-![WhatsApp Image 2022-03-16 at 19 25 16](https://user-images.githubusercontent.com/73395346/158639234-a2d71d20-694f-4235-bd4b-8378bb7773bb.jpeg)
-Minutes calculated and shown as below.
-![WhatsApp Image 2022-03-16 at 19 25 16 (2)](https://user-images.githubusercontent.com/73395346/158639298-261fcee1-a4dc-40f4-8f25-a83e5800d727.jpeg)
+
+<table align="center">
+ <thead>
+  <tr>
+   <th> Features </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr><td>You can calculate the minutes since the date you entered than today.</td></tr>
+
+
+
+## Screenshots can be seen as below:
+
+
+<h4 align="center">
+1. Default values entered
+</h4>
+
+  
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/ihtiyargurkan/AgeInMinutesApp/master/screenshot_1.jpeg " width="300" height="600">   
+</p>
+ 
+ 
+<h4 align="center">
+2. User entering the date
+</h4>
+ 
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/ihtiyargurkan/AgeInMinutesApp/master/screenshot_3.jpeg " width="300" height="600">   
+</p>
+
+<h4 align="center">
+2. results applied.
+</h4>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/ihtiyargurkan/AgeInMinutesApp/master/screenshot_2.jpeg " width="300" height="600">   
+</p>
+ 
+ 
+ 
+
 

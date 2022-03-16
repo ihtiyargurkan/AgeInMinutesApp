@@ -37,7 +37,7 @@ Calender dialog will appear and provide user to enter the date wanted to calcula
 </p>
 
 <h4 align="center">
-2. results applied.
+3. Results applied and the final screen.
 </h4>
 
 <p align="center">
